@@ -5,7 +5,7 @@ Problem Url: https://www.hackerrank.com/challenges/make-it-anagram/
 Algorithm: Build the frequency map of 2 strings. Getting the difference of them will get characters which are uncommon
 between them. freqMap1-freqMap2 gives the characters which are present in freqMap1 but not in freqMap2. Similarly,
 freqMap2-freqMap1 gives the characters which are present in freqMap2 but not in freqMap1. Run over these difference maps
-and calculate the total difference. 
+and calculate the total difference.
 '''
 from collections import Counter
 

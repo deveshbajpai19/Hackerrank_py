@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3300de11-0aa1-4345-89cd-f29cadfaf907" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MakeItAnagram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunnyString.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MakeItAnagram.py" afterPath="$PROJECT_DIR$/MakeItAnagram.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hackerrank_py.iws" />
@@ -29,18 +30,28 @@
       <file leaf-file-name="TwoStrings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TwoStrings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="600">
+              <caret line="34" column="0" selection-start-line="26" selection-start-column="4" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MakeItAnagram.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MakeItAnagram.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MakeItAnagram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2605459" vertical-offset="0" max-vertical-offset="525">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="525">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunnyString.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FunnyString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22332506" vertical-offset="0" max-vertical-offset="525">
+              <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -64,6 +75,7 @@
         <option value="$PROJECT_DIR$/GameOfThronesI.py" />
         <option value="$PROJECT_DIR$/TwoStrings.py" />
         <option value="$PROJECT_DIR$/MakeItAnagram.py" />
+        <option value="$PROJECT_DIR$/FunnyString.py" />
       </list>
     </option>
   </component>
@@ -129,25 +141,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.MakeItAnagram">
-    <configuration default="false" name="Pangrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Hackerrank_py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pangrams.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.FunnyString">
     <configuration default="false" name="AlternatingCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,6 +211,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Hackerrank_py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MakeItAnagram.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FunnyString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hackerrank_py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunnyString.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -344,19 +356,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Pangrams" />
-      <item index="1" class="java.lang.String" itemvalue="Python.AlternatingCharacters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.GameOfThronesI" />
-      <item index="3" class="java.lang.String" itemvalue="Python.TwoStrings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MakeItAnagram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AlternatingCharacters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GameOfThronesI" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TwoStrings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MakeItAnagram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FunnyString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MakeItAnagram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TwoStrings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GameOfThronesI" />
-        <item index="3" class="java.lang.String" itemvalue="Python.AlternatingCharacters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Pangrams" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FunnyString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MakeItAnagram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TwoStrings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GameOfThronesI" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AlternatingCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -438,16 +450,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TwoStrings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="600">
+          <caret line="34" column="0" selection-start-line="26" selection-start-column="4" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MakeItAnagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2605459" vertical-offset="0" max-vertical-offset="525">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="525">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunnyString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22332506" vertical-offset="0" max-vertical-offset="525">
+          <caret line="6" column="70" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
           <folding />
         </state>
       </provider>
