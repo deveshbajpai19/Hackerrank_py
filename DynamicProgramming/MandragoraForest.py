@@ -25,7 +25,7 @@ def solve(n,h):
     h.sort()
     sum_h = sum(h)
     max_h = sum_h
-    for i in xrange(0,len(h)):
+    for i in xrange(0,n):
         sum_h -= h[i]
         max_h = max((i+2) * sum_h, max_h)
     return max_h
