@@ -4,7 +4,7 @@ __author__ = 'Devesh Bajpai'
 Problem Url: https://www.hackerrank.com/challenges/mandragora
 
 Algorithm: For every Mandragora, we can either defeat (S++) or battle (P += S*H_i). And we deal with them in any order.
-Hence, sort the array of h in ascending more. Now, the base case of max experience points will be when we battle all
+Hence, sort the array of h in ascending order. Now, the base case of max experience points will be when we battle all
 the Mandragoras. Hence, total experience points in this case would be S*(H_0 + H_1 + ... H_n). Hence we sum the h array
 and take max as this value. Now, we will one by one remove H_i from this sum and consider the case, if we battle all
 Mandragoras from 0 to i and battle the rest of them. Why? Since array of h is sorted in ascending order, the larger
